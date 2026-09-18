@@ -1,0 +1,15 @@
+{ 
+  "student":  {
+
+  "firstName": "Radha",
+  "lastName": "Krishan",
+  "email": "radha@gmail.com",
+  "gender":"Female",
+  "mobile":"9087654321",
+  "dateOfBirth":"01 Jan 1995",
+  "subjects": "Nature",
+  "hobbies":"Sports",
+  "currentAddress":"Mathura"
+  
+   }
+}
